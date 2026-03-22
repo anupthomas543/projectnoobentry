@@ -1,0 +1,4 @@
+candidate_profile/
+candidate.db
+*.db
+.env
