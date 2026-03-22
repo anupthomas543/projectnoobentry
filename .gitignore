@@ -2,4 +2,4 @@ candidate_profile/
 candidate.db
 *.db
 .env
-processed_candidates
+processed_candidates/
