@@ -1,0 +1,15 @@
+# JD Scoring Report
+# JD File        : job_desc.txt
+# Role           : File Transfer JD
+# Min Experience : 2.1 years
+# Required Skills: file transfer protocols (ftps, sftp, as2, pesit), file transfer security (pgp, tls, security certificates), project management tools (excel, jira), technical project management, unix / linux
+# Preferred Skills: axway cft, securetransport
+# Weights        : Skills 70%  |  Experience 30%
+# Generated      : 2026-03-22 18:11:07
+# Candidates     : 4
+#
+rank,name,total_score,candidate_exp_yrs,summary,filename,candidate_id
+1,Bharathi Alain,30.0,6.0,"Dynamic DevOps Engineer with experience in architecting scalable cloud ecosystems. Specialized in AWS, Kubernetes, Terraform, and CI/CD automation.",Bharathi DevOps Engineer.pdf,ba4fba3a-396e-4b02-99c9-024bb19a2d8f
+2,Pravinkumar V,30.0,4.0,,Pravin _Resume.pdf,468acff1-9a08-4092-a230-56830a4cf06f
+3,Ranjith Raj R,30.0,4.0,,Resume-latest.pdf,c4ae35e2-2ff1-4bea-99a8-f70925247252
+4,Evlyn Monica Joseph,14.3,1.0,"DevOps Engineer with experience in designing and maintaining CI/CD pipelines, managing containerized workloads, and implementing infrastructure automation.",EVLYN MONICA JOSEPH.pdf,249e4aed-67c8-432d-aa55-a1d0c3c69508

@@ -1,0 +1,125 @@
+a) File Transfer JD, work location Chennai , Experience 2.1-5 years
+	
+Clarify requirements and cover the testing of finished features
+•	Support and answer queries from different support teams and stakeholders
+ 
+Contributing Responsibilities
+•	Good Team Player with the right spirit
+•	On-time delivery
+•	Timely report the status to the team
+•	Report issues to management proactively
+•	Share the core-values of the company: Commitment, Creativity, Ambition and Responsiveness
+•	Quality oriented and well organized
+•	Willing to work in high expectancy environments
+ 
+Nice to have : Axway CFT and SecureTransport
+ 
+Technical & Behavioral Competencies
+In-depth knowledge on:
+•	File transfer Protocols (FTPS, SFTP, AS2, PESIT)
+•	File transfer Security (PGP, TLS, Security certificates)
+•	Technical project Management
+•	Project Management Tools (Excel, Jira)
+•	Unix / Linux
+Basic knowledge on:
+•	TCP/IP Networks
+•	Agile methodology (Scrum/Kanban)
+
+2nd position DevOpps JD work location Chennai, Experience 7.1-9 years
+Responsibilities
+Direct Responsibilities
+Development:
+-      Analysis of requirements for software development process.
+-        Feasibility study of received requirements.
+-        To design feasible and efficient solution for the requirement.
+-        To develop solution based on best practices, which conforms to the requirements.
+-        To improve source code and their maintainability.
+-        To maintain the conformity of BNPP group standards for development process, software quality and security
+Software Maintenance:
+-        To define and to execute 3rd level support tasks for systems and applications in charge.
+-        To do necessary bug fix and to execute small enhancement tasks
+-        To update integrated software libraries and components on-time to avoid obsolete solutions.
+Problem Solving & Innovation:
+-        Analysis and continuous improvement:
+-        Planning and actively leading discussions to optimize architectures and software build and delivery methods and the possible use of new technologies.
+-        Improving the stability, scalability, performance, and security of the responsible pipelines.
+-        Developing prototypes based on new technologies within the framework of proof of concepts.
+-        Involving enterprise architecture in decisions regarding build and deployment architectures.
+-        Developing solutions jointly with those responsible for operational management.
+Contributing Responsibilities
+-        Ensuring the execution of 1st Level Support tasks for the components of the software construction and delivery platform.
+Technical & Behavioral Competencies
+-        Degree in business informatics, computer science, engineering or comparable and several years of professional experience
+-        At least 7 years of experience in software development
+-        Knowhow of modern software architectures and modern development concepts & processes
+-        Deep know how and understanding of respective development domain (Web, Mobile, Middleware, API, Platform, CRM, CMS etc.)
+-        Expert knowhow in necessary development tools and programming languages
+-        Expert knowhow in software requirement engineering and managing requirements
+-        Knowledge in software testing incl. unit test design & execution as well as E2E tests
+-        Basic knowledge in IT cyber security and secure software development
+-        Basic knowledge of banking economics (banking, trading, investing; products and transactions)
+-        Working in an agile environment with Scrum
+-        Very good English skills in words and writing
+Specific Qualifications:
+Software Development Frameworks:
+- Extensive knowledge of current frameworks such as, React, ExpressJS, Angular.
+- Basic Knowledge of current frameworks such as Python.
+Version Control Systems:
+- Extensive knowledge of the application of version control systems and their concepts, such as handling repositories, branching, commit, merging.
+- Advanced knowledge of various branching concepts, review procedures, pipeline configurations.
+Artifact Repositories:
+- Extensive knowledge of the use of artifact repositories, at least based on one of the following build tools: Maven, Gradle, and formats Docker, Java, NPM. 
+Source Code Quality Management:
+- Extensive knowledge of essential Clean Code principles and the treatment of code smells, issues, and bugs.
+Vulnerability Management:
+- Extensive knowledge of various secure coding principles and the essential vulnerability analysis, treatment, and management methods (SAST, DAST, SCA) and common tools.
+Database Management:
+- Knowledge of database systems such as Oracle / MongoDB/ Redis/ MSSQL/ Postgres.
+Knowledge in the following areas and current technologies:
+- CI/CD Tools: GitLab CI, Jenkins, SonarQube, Nexus, Nexus IQ, Fortify.
+- Web and Application Servers: Apache Web Server, Tomcat, Nginx, JBoss.
+- IDE: IntelliJ, Eclipse, Visual Studio Code.
+- Cloud: OpenShift, Docker, Kubernetes.
+- Content Management: Confluence, Jira.
+
+3 - Cyber Security work location Chennai / Mumbai, Experience 2.1-5 years
+ 
+Direct Responsibilities
+. To perform Penetration testing (Gray Box and/or Black Box) for Web applications, API, thick client applications and Infrastructure penetration testing.
+. Perform internal and external infra PT Network device (firewall,routers, switches) Servers (Windows, Linux,UNIX) Cloud and hybrid infra Mainframe
+. Coduct VA and exploit proof of concept where applicable
+. Test for common misconfiguration, insecure protocols, patch management gaps and authentication mechanisms
+. Stay updated with latest exploit, attack techniques and tools relevent to infra security
+. To understand the application's security requirements and identify & document the scope of the test.
+. Ensure execution of the documented security scenarios for the application under test.
+. Document and report all findings.
+. Collaborate with the developers to help them understand the vulnerabilities reported in application.
+. Escalate issues to the local management and onshore stakeholders in case it affects the testing progress.
+. Ensure processes for the project is followed for the assessments.
+ 
+Note:
+Mandatory requirement – Infrastructure Penetration Testing, Web & API Penetration Testing
+-    Optional, experience in Mobile & Source Code Assessment (SCA)/SAST.
+Contributing Responsibilities
+Technical & Behavioral Competencies
+. Clear understanding of OWASP Top 10 - application security risks
+. Tools/OS: Burp Suite, OWASP ZAP, Kali Linux
+. Manual Security Testing & Analysis, Security Test Designing
+. Excellent Interpersonal and presentation skills
+. Strong in verbal and written communication
+. Good analytical skills
+. Strong Time Management
+. Must be flexible, independent, self-motivated.
+. Team playerDirect Responsibilities
+. To perform Penetration testing (Gray Box and/or Black Box) for Web applications, API, thick client applications and Infrastructure penetration testing.
+. Perform internal and external infra PT Network device (firewall,routers, switches) Servers (Windows, Linux,UNIX) Cloud and hybrid infra Mainframe
+. Coduct VA and exploit proof of concept where applicable
+. Test for common misconfiguration, insecure protocols, patch management gaps and authentication mechanisms
+. Stay updated with latest exploit, attack techniques and tools relevent to infra security
+. To understand the application's security requirements and identify & document the scope of the test.
+. Ensure execution of the documented security scenarios for the application under test.
+. Document and report all findings.
+. Collaborate with the developers to help them understand the vulnerabilities reported in application.
+. Escalate issues to the local management and onshore stakeholders in case it affects the testing progress.
+. Ensure processes for the project is followed for the assessments.
+ 

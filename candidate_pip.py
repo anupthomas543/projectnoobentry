@@ -20,14 +20,14 @@ except:
     HAS_DOCX = False
 
 
-# ---------------- CONFIG ----------------
+
 INPUT_FOLDER = "candidate_profile"
 DB_PATH = "candidates.db"
 OLLAMA_URL = "http://localhost:11434/api/generate"
-MODEL = "llama3"   # change if needed
+MODEL = "llama3" 
 
 
-# ---------------- DB SETUP ----------------
+
 conn = sqlite3.connect(DB_PATH)
 cursor = conn.cursor()
 
@@ -47,13 +47,13 @@ CREATE TABLE IF NOT EXISTS candidates (
 conn.commit()
 
 
-# ---------------- CHECK DUPLICATES ----------------
+# CHECK DUPLICATES 
 def is_processed(filename):
     cursor.execute("SELECT 1 FROM candidates WHERE filename=?", (filename,))
     return cursor.fetchone() is not None
 
 
-# ---------------- TEXT EXTRACTION ----------------
+# EXT EXTRACTION 
 def extract_text(filepath):
     ext = os.path.splitext(filepath)[1].lower()
 
@@ -70,13 +70,13 @@ def extract_text(filepath):
             return f.read()
 
 
-# ---------------- CLEAN TEXT ----------------
+#CLEAN TEXT
 def clean_text(text):
     text = re.sub(r"\s+", " ", text)
     return text.strip()
 
 
-# ---------------- PROMPT ----------------
+# PROMPT
 def build_prompt(resume_text):
     return f"""
 
@@ -87,7 +87,7 @@ Resume:
 """
 
 
-# ---------------- CALL OLLAMA ----------------
+#OLLAMA
 def call_ollama(prompt):
     payload = {
         "model": MODEL,
